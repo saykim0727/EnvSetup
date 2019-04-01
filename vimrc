@@ -1,4 +1,4 @@
-iiset hlsearch
+iiiiset hlsearch
 set nu
 set autoindent
 set cindent
