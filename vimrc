@@ -1,3 +1,7 @@
+{
+asdsa
+
+
 iiiiiiiiiiiiset hlsearch
 set nu
 set autoindent
