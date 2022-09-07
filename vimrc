@@ -1,11 +1,7 @@
-{
-asdsa
-
-
-iiiiiiiiiiiiset hlsearch
+set hlsearch
 set nu
 set autoindent
-set cindentiiiiiii
+set cindent
 set smartindent
 set scrolloff=2
 set wildmode=longest,list
