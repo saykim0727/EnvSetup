@@ -9,4 +9,4 @@ cp zshrc -> ~/.zhsrc
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/z-shell/zsh-navigation-tools/main/doc/install.sh)"
 
- 
+ colors -> ~/.vim/colors
